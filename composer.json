@@ -1,0 +1,8 @@
+{
+  "name": "drupal/shortcode",
+  "description": "Provides ShortCodes filter framework and API (like WP ShortCodes).",
+  "type": "drupal-module",
+  "homepage": "https://drupal.org/project/shortcode",
+  "license": "GPL-2.0-or-later",
+  "minimum-stability": "dev"
+}
